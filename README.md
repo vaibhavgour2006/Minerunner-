@@ -96,7 +96,7 @@
    ```
 
 4. **Open in your browser**:
-   Navigate to `http://localhost:3000` to play!
+   Navigate to https://ai.studio/apps/35965250-5e06-4a8f-bbd7-60d7afa275d3 to play!
 
 ### Production Build
 
