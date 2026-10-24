@@ -1,0 +1,6 @@
+{
+  "name": "MineRunner V2",
+  "description": "An endless 3D voxel runner where you dodge obstacles, escape creepers and zombies, collect emeralds, and explore biomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
